@@ -6,7 +6,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/bhuvaneshvinjamuri"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   &nbsp;
-  <a href="mailto:bhuvaneshvinjamuri@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="vinjamuri.bhuvan@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 About me
