@@ -9,13 +9,13 @@
   <a href="mailto:vinjamuri.bhuvan@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-About me
+About me<br>
 I build machine learning systems that find signal in noisy, unlabelled data. My focus is on anomaly detection, fraud detection, and NLP similarity — areas where the ground truth is sparse and the engineering has to be rigorous.
 I placed Top 42 out of 800+ teams at the HackWithAI National AI Hackathon building a healthcare fraud detection pipeline, and I've spent months iterating a UEBA system on 3.5 million enterprise authentication logs.
 I'm currently deepening my knowledge of transformer-based NLP and looking for Data Science / ML intern opportunities where I can contribute to real production systems.
 
-Featured projects
-🔍 BehaviorGuard-AI — Insider threat detection
+Featured projects <br>
+ BehaviorGuard-AI — Insider threat detection
 
 UEBA system analysing ~3.5M authentication logs from the CERT insider threat dataset.
 
@@ -27,7 +27,7 @@ Percentile-based threshold calibration → stable ~1% alert rate across all clus
 
 Python Scikit-learn Isolation Forest KMeans HDBSCAN FastAPI Pandas
 
-🏥 ClaimHawk — Healthcare fraud detection · 🏆 Top 42 / 800+ teams
+ ClaimHawk — Healthcare fraud detection · Top 42 / 800+ teams
 
 ML fraud detection pipeline for healthcare insurance claims built at HackWithAI.
 
@@ -38,7 +38,7 @@ Improved recall on high-confidence fraud cases vs. threshold-only baselines
 
 Python Isolation Forest Feature Engineering TypeScript
 
-💰 FinSight AI — Financial forecasting platform · HackWithHyderabad 2025
+ FinSight AI — Financial forecasting platform · HackWithHyderabad 2025
 
 Smart CFO assistant providing real-time runway calculations and ML-powered forecasting for startups.
 
@@ -50,7 +50,7 @@ React + FastAPI full-stack architecture
 
 Python Prophet Logistic Regression FastAPI React SQLite
 
-📄 NOVA ESTEEM — NLP resume-to-job similarity platform (coming soon)
+ NOVA ESTEEM — NLP resume-to-job similarity platform (coming soon)
 
 Semantic similarity engine that surfaces skill gaps between resumes and job descriptions.
 
