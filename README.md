@@ -23,7 +23,7 @@ I'm currently deepening my knowledge of transformer-based NLP and looking for Da
 <li>7 versioned notebooks documenting full research progression (V0 → V6)</li>
 <li>Python Scikit-learn Isolation Forest KMeans HDBSCAN FastAPI Pandas</li>
 </ul>
-<hr>
+
  <h3>ClaimHawk — Healthcare fraud detection </h3>
 Ranked top 42 / 800+ teams
 <ul>
